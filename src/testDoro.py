@@ -44,7 +44,7 @@ while True:
     # 按下 'a' 键暂停
     if cv2.waitKey(1) & 0xFF == ord('a'):
         while True:
-            # 等待用户按下 'r' 键继续
+            # 等待用户按下 'd' 键继续
             if cv2.waitKey(1) & 0xFF == ord('d'):
                 break
             # 显示当前帧

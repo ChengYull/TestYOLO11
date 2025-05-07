@@ -3,7 +3,7 @@
 ## 项目简介
 本项目基于 [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) 进行二次开发，实现了自定义数据集的目标检测模型训练与视频推理。
 
-详细教程请参考 [博客园](https://www.cnblogs.com/1873cy/p/18844467)。
+详细教程请参考 [YOLOv5到YOLO11：基于Ultralytics框架的目标检测训练与实战](https://www.cnblogs.com/1873cy/p/18862806)。
 
 ## 训练结果示例
 50轮次结果：
